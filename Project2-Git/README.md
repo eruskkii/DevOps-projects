@@ -7,7 +7,7 @@ It contains my successes, as well as my failures and how I resolved them.
 - I opened my Git bash terminal 
 - Used `cd` to change directory to folder I wanted to work from
 - used `mkdir`to create my proposed repo folder and used cd to move into it. 
-- used git init to initialise local repo
+- used `git init` to initialise local repo
 
 ![Alt text](<images/Create and init Git.png>)
 
