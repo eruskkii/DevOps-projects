@@ -1,1 +1,0 @@
-start of my lamp stack project
