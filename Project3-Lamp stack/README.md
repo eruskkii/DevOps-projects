@@ -161,6 +161,11 @@ Refreshed the PHP page on the browser
 
 ![Alt text](<images/PHP page on web browser.png>)
 
+
+Remove the page as advised using `sudo rm /var/www/projectlamp/index.php`
+
+![Alt text](<images/Deleting the php file.png>)
+
 In this project, I learnt how to install Apache, Mysql, and PHP. Understood how they worked together better when I replaced the default Apache web page with the PHP webpage. All in all, a fruitful experience. 
 
 
