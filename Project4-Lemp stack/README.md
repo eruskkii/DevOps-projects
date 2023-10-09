@@ -12,9 +12,9 @@ Used `apt install` to install all updates before installing the Nginx web server
 
 ![Alt text](<images/sudo apt update installed.png>)
 
-Used `sudo apt install nginx` and `sudo systemctl status nginx` to install and start nginx. It was successfull
+Used `sudo apt install nginx` and `sudo systemctl status nginx` to install and start nginx. It was successfull.
 
-![Alt text](<isntall and start Nginx.png>)
+![Alt text](<images/isntall and start Nginx .png>)
 
 Used `curl http://localhost:80`t confirm server is up and running on the terminal
 
